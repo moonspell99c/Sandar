@@ -1,6 +1,6 @@
-# Sannian-Cloud-Radar
+# Cloud-Radar
 
-交流群：697156614
+
 
 更新日志：
 
@@ -19,7 +19,7 @@
 
 搭建指令：
 
-yum install git;git clone https://github.com/sannian66/Sannian_Cloud_Randar.git; chmod +x . /root/Sannian_Cloud_Randar/update.sh;. /root/Sannian_Cloud_Randar/update.sh
+yum install git;git clone https://github.com/moonspell99c/Sandar.git; chmod +x . /root/Sandar/update.sh;. /root/Sandar/update.sh
 
 重启或网页打不开指令：
 
